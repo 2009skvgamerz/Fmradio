@@ -1,0 +1,249 @@
+Fmradio/
+├── Afghanistan
+│   └── Srood
+│       └── http://stream.cloud.radiosrood.com:8000/live
+
+├── Germany
+│   ├── Oldiewelle Roding
+│   │   └── http://stream.laut.fm/oldiewelle-roding
+│   ├── Paloma
+│   │   └── https://pool.radiopaloma.de/RADIOPALOMA.mp3
+│   ├── TranceBase.FM
+│   │   └── https://mp3.stream.tb-group.fm/trb.mp3
+│   └── Ballermann
+│       └── http://stream.bmr-radio.de
+
+├── Argentina
+│   ├── Mia
+│   │   └── https://playerservices.streamtheworld.com/api/livestream-redirect/FM1041_56.mp3
+│   └── Cadena Space
+│       └── http://52.9.150.45:8000/
+
+├── Finland
+│   ├── Nostalgia 105.5 FM
+│   │   └── https://stream.bauermedia.fi/nostalgia/nostalgia_128.mp3
+│   ├── Santa Claus
+│   │   └── https://streaming.radiostreamlive.com/radiosantaclaus_devices
+│   └── Suomi Pop 98.1 FM
+│       └── https://digitacdn.akamaized.net/hls/live/629243/radiosuomipop/master.m3u8
+
+├── Lithuania
+│   ├── Radio-R 105.6 FM
+│   │   └── https://stream1.rusradio.lt/rrb128.mp3
+│   ├── Znad Wilii 103.8 FM
+│   │   └── https://plays.zw.lt/zw128
+│   └── Power Hit Radio 95.9 FM
+│       └── https://stream.powerhitradio.lt/PHR_AAC
+
+├── Lithuania
+│   ├── Radio-R 105.6 FM
+│   │   └── https://stream1.rusradio.lt/rrb128.mp3
+│   ├── Znad Wilii 103.8 FM
+│   │   └── https://plays.zw.lt/zw128
+│   └── Power Hit Radio 95.9 FM
+│       └── https://stream.powerhitradio.lt/PHR_AAC
+
+├── Liechtenstein
+│   ├── Liechtenstein 100.2 FM
+│   │   └── https://radioliechtenstein.ice.infomaniak.ch/radioliechtenstein-128.mp3
+│   └── 94fm
+│       └── https://94fm.stream.laut.fm/94fm
+
+├── Danimarka
+│   ├── Marimanga
+│   │   └── https://s11.ssl-stream.com/ssl/marimanga?mp=/stream
+│   ├── Pop FM 97.2 FM
+│   │   └── https://live-bauerdk.sharp-stream.com/popfm128.mp3
+│   └── MyRock 103.6 FM
+│       └── https://live-bauerdk.sharp-stream.com/myrock.mp3
+
+├── France
+│   ├── NRJ Metal
+│   │   └── http://cdn.nrjaudio.fm/adwz1/fr/30079/mp3_128.mp3
+│   ├── Elyon 97.4 FM
+│   │   └── http://listen.radioking.com/radio/4243/stream/12164
+│   ├── Jazz Radio - Blues
+│   │   └── https://jazzblues.ice.infomaniak.ch/jazzblues-high.mp3
+│   └── ABC Lounge
+│       └── https://str1.openstream.co/589
+
+├── Gronland
+│   ├── Kalaallit Nunaata 90.5 FM
+│   │   └── https://ice.cr5.streamzilla.xlcdn.com:8000/sz=knr=audio192
+│   └── Nanoq FM 100 FM
+│       └── https://getnanoq.retro-radio.dk/Nanoq-TX-1
+
+├── Hungary
+│   ├── Sport Rádió 105.9 FM
+│   │   └── https://n12.rcs.revma.com/t6dn5c8bdchvv
+│   └── RadiOzora TRANCE
+│       └── https://trance.out.airtime.pro/trance_a
+
+├── Netherlands
+│   ├── Fantasy Radio
+│   │   └── http://italo.live-streams.nl/live
+│   ├── Stad Den Haag
+│   │   └── https://stream.radiostaddenhaag.com/stream/1/
+│   ├── Deep Radio
+│   │   └── https://stream.deep.radio/sd
+│   └── SLAM! 91.1 FM
+│       └── https://25233.live.streamtheworld.com/SLAM_MP3_SC
+
+├── Mexico
+│   ├── Reactor FM
+│   │   └── https://s2.mexside.net/8002/stream
+│   └── Exa FM
+│       └── https://27033.live.streamtheworld.com/XHEXA_SC
+
+├── Albania
+│   ├── NRG Energy Radio
+│   │   └── https://ice31.securenetsystems.net:80/AL09
+│   └── Emigranti
+│       └── http://www.radioemigranti.com:8000/radio
+
+├── Norway
+│   ├── Norge
+│   │   └── https://live-bauerno.sharp-stream.com/radionorge_no_mp3
+│   └── Nærkanalen
+│       └── http://stream.radiomeloy.no:8001/128
+├── Uzbekistan
+│   ├── See The Sea FM
+│   │   └── https://listen5.myradio24.com/seethesea
+│   └── Oriat Dono
+│       └── http://194.5.152.248:8000/dono
+
+├── Australia
+│   ├── ABC Sydney
+│   │   └── http://live-radio01.mediahubaustralia.com/2LRW/mp3/;stream.nsv
+│   └── Systrum Sistum
+│       └── https://systrum.net:8443/SSR2
+
+├── Azerbaijan
+│   ├── AutoLife Azerbaijan
+│   │   └── https://radio.autoliferadio.com:8005/radio
+│   └── Avto FM
+│       └── http://5.191.241.101:8000/avtofm
+
+├── Georgia
+│   ├── Amra
+│   │   └── https://streamer.radio.co/s34b5469e0/listen
+│   └── Radio Electronauts
+│       └── https://stream.zeno.fm/4d98pq6cwg0uv
+
+├── Austria
+│   ├── Chill Out Zone
+│   │   └── http://144.76.81.20:8000/;?type=http&nocache=1030780
+│   └── Volksmusikpur
+│       └── https://stream.laut.fm/volksmusikpur
+
+├── Poland
+│   ├── Safira Kanoe
+│   │   └── https://stream.zeno.fm/fxvq8uqcvuhvv
+│   └── Radio dla Dorosłych 0
+│       └── https://s3.slotex.pl:7586/stream
+
+├── Ireland
+│   ├── Live Ireland Radio
+│   │   └── http://192.111.140.11:8058/stream?type=http&nocache=910873
+│   └── RealRadio Ireland
+│       └── https://stream.zeno.fm/6g19fr9psnhvv
+
+├── Sweden
+│   ├── Pirate Rock
+│   │   └── https://stream.piraterock.se:8100/webradio
+│   └── Sveriges Radio
+│       └── https://http-live.sr.se/p1-mp3-192
+
+├── Brazil
+│   ├── 77H FM GUARUJA SP
+│   │   └── https://stream.zeno.fm/wc7imbfxq9cvv
+│   └── Gaia
+│       └── http://sc-radiogaia.1.fm:10036/;stream.nsv
+
+├── Italy
+│   ├── Kiss Kiss Italia
+│   │   └── https://ice06.fluidstream.net/KKItalia.aac
+│   └── Chill Out Zone Italy
+│       └── https://stream.laut.fm/chilloutzone
+
+├── Iceland
+│   ├── Bylgjan FM
+│   │   └── http://icecast.365net.is:8000/orbbylgjan.aac
+│   └── FM Xtra
+│       └── http://www.radio.is:443/fmxtra
+
+├── Senegal
+│   ├── FM Sénégal
+│   │   └── https://stream.zenolive.com/t8gcyq6ts0quv.aac
+│   └── RTS Sénégal Internationale
+│       └── https://stream.zeno.fm/4ug134nd28quv
+
+├── Portugal
+│   ├── Hard & Heavy Metal Hits Radio
+│   │   └── https://audio.serv.pt/8040/stream
+│   └── Festival Madeira
+│       └── http://radiosmadeira.net:8012/;stream.nsv
+
+├── Romania
+│   ├── Petrecere
+│   │   └── http://petrecere.fmradiomanele.ro:8123/stream?type=http&nocache=414565
+│   └── România Actualităţi
+│       └── http://stream2.srr.ro:8002/;stream.nsv
+
+├── Jamaica
+│   ├── Radio Jamaica
+│   │   └── https://stream.zeno.fm/ebqnzkvyv9duv
+│   └── Called Out Gospel Radio
+│       └── http://usa3.fastcast4u.com/proxy/ennsvarb?mp=/1
+
+├── Japan
+│   ├── J-Rock Powerplay
+│   │   └── https://kathy.torontocast.com:3340/;?type=http&nocache=106453
+│   └── J-Pop Powerplay Kawaii
+│       └── https://kathy.torontocast.com:3060/;?type=http&nocache=112624
+
+├── Samoa
+│   ├── Magik FM
+│   │   └── https://ice5.securenetsystems.net/MAGIKFM?playSessionID=413666FF-57E9-429D-AB42E069191FCB52
+│   └── Radio 2AP 91.1 FM
+│       └── https://stream.zeno.fm/vupcb07gc2zuv
+
+├── Belgium
+│   ├── Instrumentals Forever
+│   │   └── https://bluford.torontocast.com/proxy/tpwlyniw/stream
+│   └── Radio Minerva
+│       └── http://streaming.radiominerva.be/minerva
+
+├── Panama
+│   ├── Telemetro Radio
+│   │   └── https://us-b4-p-e-zs14-audio.cdn.mdstrm.com/live-audio-aw/5eed1f402a71ff071938abc2
+│   └── Fabulosa Estereo
+│       └── https://www.streaming507.net:8130/stream
+
+├── Croatia
+│   ├── Max 99.3 FM
+│   │   └── https://azuracast.novi-net.net/radio/8010/radiomax.aac
+│   └── Stubica 95.6 FM
+│       └── http://radiostubica.hc.hr:7010/stream?type=http&nocache=14146
+
+├── Egypt
+│   ├── NAGHAM FM 105.3 FM
+│   │   └── https://ahmsamir.radioca.st/stream
+│   └── Arab Mix FM
+│       └── https://stream.zeno.fm/1q8yaaz4ng0uv
+
+├── Malaysia
+│   └── Best FM 104.1
+│       └── https://n14.rcs.revma.com/h34x4kgg9hhvv.m4a?rj-ttl=5&rj-tok=AAABi0G9vZwAK9sRuugK09T14Q
+
+├── Uganda
+│   ├── Sapientia 94.4 FM
+│   │   └── https://www.radiosapientia.com/live
+│   └── Capital FM 91.3 FM
+│       └── http://5229.cloudrad.io:8316/
+
+├── Ukraine
+│   ├── ROKS 103.6 FM
+│   │   └── https://online.radioroks.ua/RadioROKS
+│   └── Радіо NRJ 92.8 FM
+│       └── https://cast.radiogroup.com.ua/nrj
