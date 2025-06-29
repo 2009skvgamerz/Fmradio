@@ -32,48 +32,12 @@ A modern, responsive web-based radio streaming application featuring **80+ inter
 - **Error Handling** - Graceful error management
 - **Zero Dependencies** - Pure vanilla JavaScript
 
-## 🚀 Quick Start
 
-### Option 1: Single File Deployment
-1. Download [`radio-player.html`](radio-player.html)
-2. Upload to any web hosting service
-3. Open in browser and start listening!
-
-### Option 2: GitHub Pages
-1. Fork this repository
-2. Enable GitHub Pages in repository settings
-3. Access via `https://yourusername.github.io/global-radio-player`
 
 ## 📱 Demo
 
 [Live Demo](https://keerthivasan-global-radio-player.netlify.app) | [Screenshot Gallery](#screenshots)
 
-## 🛠️ Installation & Deployment
-
-### Local Development
-```bash
-# Clone the repository
-git clone https://github.com/yourusername/global-radio-player.git
-cd global-radio-player
-
-# Serve locally (Python 3)
-python -m http.server 8000
-
-# Or with Node.js
-npx serve .
-
-# Open http://localhost:8000
-```
-
-### Free Hosting Options
-
-| Platform | Deployment Method | Custom Domain |
-|----------|-------------------|---------------|
-| **Netlify** | Drag & drop `radio-player.html` | ✅ Free |
-| **Vercel** | Upload single file | ✅ Free |
-| **GitHub Pages** | Push to repository | ✅ Free |
-| **Surge.sh** | `surge radio-player.html` | ✅ Free |
-| **Firebase Hosting** | `firebase deploy` | ✅ Free |
 
 ### Single File Deployment
 The `radio-player.html` file is completely self-contained:
@@ -233,12 +197,6 @@ Modify CSS custom properties in the `:root` selector:
     /* ... other variables ... */
 }
 ```
-
-### Branding
-- Update the `<title>` tag
-- Modify the logo text in the header
-- Customize the footer copyright
-- Add your own favicon
 
 ---
 
