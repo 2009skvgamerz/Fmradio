@@ -36,7 +36,7 @@ A modern, responsive web-based radio streaming application featuring **80+ inter
 
 ## 📱 Demo
 
-[Live Demo](https://keerthivasan-global-radio-player.netlify.app) | [Screenshot Gallery](#screenshots)
+[Live page](https://skvgamerz.infy.uk/radio-player.html?i=1) | [Screenshot Gallery](#screenshots)
 
 
 ### Single File Deployment
